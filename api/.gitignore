@@ -1,0 +1,11 @@
+
+venv/
+.history/
+.history
+history*
+__pycache__/
+.idea/
+.vscode/
+setup.cfg
+
+
